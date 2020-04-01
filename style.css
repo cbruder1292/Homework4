@@ -1,0 +1,17 @@
+.time {
+    background-color: aqua;
+    float: right;
+}
+
+#main {
+    background-color: aqua;
+    float:right;
+}
+
+.blank {
+    display: none;
+}
+
+.initial {
+    display: none;
+}
